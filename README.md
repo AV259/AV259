@@ -48,6 +48,11 @@ Azure | Git | Docker (Learning) | Kubernetes (Learning)
 
 ## 🔥 Featured Projects
 
+### TravelMind AI – Intelligent Multi-Agent Travel Planner
+
+TravelMind AI is an AI-powered stateful multi-agent travel planning system built using LangGraph and Google Gemini featuring Human-in-the-Loop decision making, tool calling, persistent memory, and real-time API integrations.
+The system coordinates specialized AI agents to collaboratively plan complete, personalized travel experiences from destination planning, flight and hotel search, activity recommendations to budget optimization, transportation, and itinerary generation.
+
 ### 🤖 AI-Powered RAG Chatbot
 
 Built and deployed a Retrieval-Augmented Generation (RAG) application for domain-specific question answering using LangChain, ChromaDB, Hugging Face APIs, and Streamlit.
