@@ -1,6 +1,6 @@
 # Hi, I'm Akash Verma 👋
-
-## 🚀 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=AV259&color=blueviolet&style=flat-square&label=Profile+Views)
+##  About Me
 
 🎓 MSc Data Science Student at Philipps University Marburg, Germany
 
