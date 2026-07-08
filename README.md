@@ -44,10 +44,18 @@
 
 ##  Featured Projects
 
-### TravelMind AI – Intelligent Multi-Agent Travel Planner
+### TravelMind AI – LangGraph Multi-Agent Travel Planner
 
-TravelMind AI is an AI-powered stateful multi-agent travel planning system built using LangGraph and Google Gemini featuring Human-in-the-Loop decision making, tool calling, persistent memory, and real-time API integrations.
-The system coordinates specialized AI agents to collaboratively plan complete, personalized travel experiences from destination planning, flight and hotel search, activity recommendations to budget optimization, transportation, and itinerary generation.
+Built and deployed a LangGraph AI Agent System that coordinates specialized multiple agents to collaboratively plan complete, personalized travel experiences from destination planning, flight and hotel search, activity recommendations to budget optimization, transportation, and itinerary generation. 
+
+**Key Features**
+
+* Stateful multi-agent system
+* Human-in-the-Loop
+* Tool calling
+* Persistent memory
+* Real-time API integration
+  
 
 ###  AI-Powered RAG Chatbot
 
